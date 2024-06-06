@@ -7,7 +7,7 @@ public class Kasir {
     private List<Item> items;
 
     public Kasir() {
-        items = new ArrayList<>();
+        items = new ArrayList<>(); 
     }
 
     public void addItem(Item item) {
